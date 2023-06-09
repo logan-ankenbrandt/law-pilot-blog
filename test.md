@@ -1,4 +1,4 @@
-# Legal Documents Meet AI: from Python Setup to AI Doc Analysis!
+# Legal Docs Meet AI: from Python Setup to AI Doc Analysis!
 Hey there, tech enthusiasts and legal eagles! Have you ever wondered about the spectacular possibilities that could arise from the intersection of artificial intelligence and the legal domain? Well, you're in luck, because we're about to embark on an exciting journey exploring just that!
 
 In this blog post, we'll be setting you up with all the tools you need to harness the power of AI for legal document analysis. We'll guide you through the process of setting up Python and pip on your machine, creating and activating a Python virtual environment, and installing the necessary Python packages.
